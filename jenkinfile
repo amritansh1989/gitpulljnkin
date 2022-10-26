@@ -2,7 +2,7 @@
     stages {
     stage ('First job'){
         steps {
-            echo "hello this is india "
+            echo "hello this is jenkin "
         }
     }
     stage ('Second job'){
